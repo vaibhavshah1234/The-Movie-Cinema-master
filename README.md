@@ -11,8 +11,13 @@ Create an account in https://www.themoviedb.org/, click on the API link from the
 
 # How to run the project?
 1.Clone or download this repository to your local machine.
+
 2.Install all the libraries mentioned in the requirements.txt file with the command pip install -r requirements.txt
+
 3.Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key)
+
 4.Replace YOUR_API_KEY in both the places (line no. 23 and 43) of static/recommend.js file and hit save.
+
 5.Open Heroku at your Dekstop , create a new app with app name (write app name you want) connect it with your Github profile find repositories and just deploy your model
+
 6.Hurray! That's it.
