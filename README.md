@@ -1,4 +1,4 @@
-# The-Movie-Cinema-master
+# The-VS-Movie-Cinema
 
 Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
 
@@ -21,3 +21,7 @@ Create an account in https://www.themoviedb.org/, click on the API link from the
 5.Open Heroku at your Dekstop , create a new app with app name (write app name you want) connect it with your Github profile find repositories and just deploy your model
 
 6.Hurray! That's it.
+
+# Architecture
+
+![1](https://user-images.githubusercontent.com/69906280/119215237-042b6b00-baea-11eb-85e1-3aeef656bcbb.jpg)
