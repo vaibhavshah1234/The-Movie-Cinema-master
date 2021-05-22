@@ -18,7 +18,7 @@ Create an account in https://www.themoviedb.org/, click on the API link from the
 
 4.Replace YOUR_API_KEY in both the places (line no. 23 and 43) of static/recommend.js file and hit save.
 
-5.Open Heroku at your Dekstop , create a new app with app name (write app name you want) connect it with your Github profile find repositories and just deploy your model
+5.Open Heroku on your Dekstop , create a new app with app name (write app name you want) connect it with your Github profile, find repositories and just deploy your model
 
 6.Hurray! That's it.
 
