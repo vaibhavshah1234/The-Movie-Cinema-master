@@ -38,4 +38,6 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 ![2](https://user-images.githubusercontent.com/69906280/119225502-be8a9480-bb21-11eb-8170-339676a042cd.png)
 
 
-More about Cosine Similarity :https://www.machinelearningplus.com/nlp/cosine-similarity/
+More about Cosine Similarity  :https://www.machinelearningplus.com/nlp/cosine-similarity/
+
+                                https://www.youtube.com/watch?v=ieMjGVYw9ag
